@@ -1,1 +1,1 @@
-created a new directory called 0x01-git in your alx-precourse repo.
+created a new directory called 0x01-git in my  alx-precourse repo.
